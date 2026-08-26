@@ -1,5 +1,4 @@
 
-
 # afficher_informations_personne
 # Paramètres : nom, age
 def afficher_informations_personne(nom, age, taille=0):
@@ -45,7 +44,7 @@ def demander_age(nom_personne):
     return age_int
 
 
-# demander le nom
+# #demander le nom
 # nom1 = demander_nom()
 # nom2 = demander_nom()
 # nom1 = "personne1"
